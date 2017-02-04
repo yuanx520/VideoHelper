@@ -1,0 +1,16 @@
+/external_models/
+*.swp
+*.pyc
+*~
+/deps/
+/target/
+/install/
+/pkg/
+/build.log
+tags
+/samples/*.jpeg
+/samples/*.protobuf
+/samples/test*
+*.o
+.ycm_extra_conf.py
+build
