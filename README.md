@@ -1,13 +1,11 @@
-# Project Name
-
-### st_videohelper
+## VideoHelper
 
 - This is a AVI video reader which can be used in all platforms.
 - We only support the avi video type(each frame is encoded by JPEG).
 
 ## Installation
 
-- git clone
+- git clone git@github.com:yuanx520/VideoHelper.git
 - mkdir build && cd build
 - cmake ..
 - make
