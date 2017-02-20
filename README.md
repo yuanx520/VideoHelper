@@ -5,7 +5,6 @@
 
 ## Installation
 
-- git clone git@github.com:yuanx520/VideoHelper.git
 - mkdir build && cd build
 - cmake ..
 - make
